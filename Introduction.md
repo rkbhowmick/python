@@ -1,12 +1,12 @@
 # An Introduction to Python
 
 ## History of Python
-Christmas 1989: Guido von Rossum started writing a compiler for the Python language.
-February 1991: The first Python compiler (also an interpreter) was born. It was implemented in C (behind) and can call C library functions. In the earliest versions, Python has provided support for building blocks such as "classes", "functions", and "exception handling", as well as core data types such as lists and dictionaries, while supporting module-based application construction. .
-January 1994: Python 1.0 is officially released.
+1. Christmas 1989: Guido von Rossum started writing a compiler for the Python language.
+2. February 1991: The first Python compiler (also an interpreter) was born. It was implemented in C (behind) and can call C library functions. In the earliest versions, Python has provided support for building blocks such as "classes", "functions", and "exception handling", as well as core data types such as lists and dictionaries, while supporting module-based application construction. .
+3. January 1994: Python 1.0 is officially released.
 October 16, 2000: Python 2.0 is released, adding full garbage collection and providing support for Unicode . At the same time, the entire development process of Python is more transparent, the influence of the community on the development progress is gradually expanding, and the ecosystem is slowly forming.
 December 3, 2008: Python 3.0 is released, it is not fully compatible with previous Python code, but because there are still many companies using Python 2.x versions in projects and operations, many new versions of Python 3.x Features were later ported to Python 2.6 / 2.7.
-The current version of Python 3.8.x we used was released in 2019. The version number of Python is divided into three sections, such as ABC. Among them, A indicates a large version number. Generally, A is added when the overall rewrite or changes that are not backwards compatible; B indicates a function update, and B is added when a new function appears; C indicates a small change (for example: a certain fix Bug), add C whenever possible. If you are interested in the history of Python, you can read a blog post called A Brief History of Python .
+The current version of Python 3.8.x we used was released in 2019. The version number of Python is divided into three sections, such as ABC. Among them, A indicates a large version number. Generally, A is added when the overall rewrite or changes that are not backwards compatible; B indicates a function update, and B is added when a new function appears; C indicates a small change (for example: a certain fix Bug), add C whenever possible.
 
 ## Pros and cons of Python
 ### The advantages of Python are many, and the simple ones can be summarized as follows.
