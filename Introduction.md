@@ -24,5 +24,5 @@
 2. The code cannot be encrypted, but many companies now sell software instead of selling software. This problem will be weakened.
 3. There are too many frameworks to choose from during development (for example, there are more than 100 web frameworks), and there are mistakes where there are choices.
 
-##Application areas of Python
+## Application areas of Python
 At present, Python has a wide range of applications in web application development, cloud infrastructure, DevOps, network data collection (reptiles), data analysis and mining, and machine learning. Therefore, it has also produced web back-end development, data interface development, and automated operation and maintenance. , Automated testing, scientific computing and visualization, data analysis, quantitative trading, robotics development, natural language processing, image recognition and a series of related positions.
